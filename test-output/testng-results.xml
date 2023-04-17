@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-02-22T08:48:11 IST" name="Default suite" finished-at="2023-02-22T08:48:15 IST" duration-ms="3801">
+    <groups>
+    </groups>
+    <test started-at="2023-02-22T08:48:11 IST" name="Default test" finished-at="2023-02-22T08:48:15 IST" duration-ms="3801">
+      <class name="RESTAssured.DynamicJson">
+        <test-method signature="addBook(java.lang.String,java.lang.String)[pri:0, instance:RESTAssured.DynamicJson@82de64a]" started-at="2023-02-22T08:48:11 IST" name="addBook" data-provider="BooksData" finished-at="2023-02-22T08:48:15 IST" duration-ms="3436" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[omkkty]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[9363]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addBook -->
+        <test-method signature="addBook(java.lang.String,java.lang.String)[pri:0, instance:RESTAssured.DynamicJson@82de64a]" started-at="2023-02-22T08:48:15 IST" name="addBook" data-provider="BooksData" finished-at="2023-02-22T08:48:15 IST" duration-ms="302" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Cewwerr]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[25637]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addBook -->
+      </class> <!-- RESTAssured.DynamicJson -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
